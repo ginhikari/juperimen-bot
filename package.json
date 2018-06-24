@@ -1,0 +1,11 @@
+{
+  "name": "juperimen-bot",
+  "version": "1.0.0",
+  "description": "アメリカンな感じにするボット",
+  "main": "bot.js",
+  "author": "GinHikari",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
